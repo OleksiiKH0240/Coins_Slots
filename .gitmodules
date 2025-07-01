@@ -1,7 +1,0 @@
-[submodule "Coins"]
-	path = Coins
-	url = https://github.com/OleksiiKH0240/Coins
-
-[submodule "Slots"]
-	path = Slots
-	url = https://github.com/OleksiiKH0240/Slots
